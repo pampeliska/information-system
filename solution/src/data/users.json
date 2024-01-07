@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Airbank a.s.",
+    "person": "Jan Novák 1",
+    "email": "jan.novak@airbank.cz",
+    "phone": "603 123 456",
+    "twoF": "ano",
+    "description": "Jsem nějaký popis"
+  },
+  {
+    "name": "Čekoslovenská obchodní banka",
+    "person": "Tonda Novák",
+    "email": "tonda.novak@airbank.cz",
+    "phone": "603 123 457",
+    "twoF": "ne",
+    "description": "Jsem nějaký popis"
+  },
+  {
+    "name": "Airbank a.s.",
+    "person": "Jan Novák 2",
+    "email": "jan.novak@airbank.cz",
+    "phone": "603 123 456",
+    "twoF": "ano",
+    "description": "Jsem nějaký popis"
+  },
+  {
+    "name": "Airbank a.s.",
+    "person": "Jan Novák 3",
+    "email": "jan.novak@airbank.cz",
+    "phone": "603 123 456",
+    "twoF": "ano",
+    "description": "Jsem nějaký popis"
+  },
+  {
+    "name": "Airbank a.s.",
+    "person": "Jan Novák 4",
+    "email": "jan.novak@airbank.cz",
+    "phone": "603 123 456",
+    "twoF": "ano",
+    "description": "Jsem nějaký popis"
+  },
+  {
+    "name": "Airbank a.s.",
+    "person": "Jan Novák 5",
+    "email": "jan.novak@airbank.cz",
+    "phone": "603 123 456",
+    "twoF": "ano",
+    "description": "Jsem nějaký popis"
+  },
+  {
+    "name": "Airbank a.s.",
+    "person": "Jan Novák 6",
+    "email": "jan.novak@airbank.cz",
+    "phone": "603 123 456",
+    "twoF": "ano",
+    "description": "Jsem nějaký popis"
+  }
+]
